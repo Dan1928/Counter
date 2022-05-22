@@ -20,7 +20,7 @@ btns.forEach(function (btn) {
       value.style.color = 'red';
     }
     else if (count > 0){
-      value.style.color = 'greenyellow';
+      value.style.color = 'green';
     }
     else {
       value.style.color = 'black';
